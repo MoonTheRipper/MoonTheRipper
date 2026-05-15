@@ -1,5 +1,3 @@
-<img align="right" alt="Coding animation" width="320" src="resources/happycoding.gif" />
-
 # `MoonTheRipper`
 
 ```text
