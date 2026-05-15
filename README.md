@@ -46,16 +46,3 @@ I like building clean interfaces, sharpening core engineering skills, and turnin
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
 </p>
-
-## `github --stats`
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=moontheripper&show_icons=true&hide_border=true&theme=merko&rank_icon=github" alt="MoonTheRipper GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=moontheripper&hide_border=true&theme=merko" alt="MoonTheRipper contribution streak" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=moontheripper&show_icons=true&locale=en&layout=compact&hide_border=true&theme=merko" alt="MoonTheRipper top languages" />
-</p>
-
-<br clear="right" />
